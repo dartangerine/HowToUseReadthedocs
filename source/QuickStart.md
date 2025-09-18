@@ -202,14 +202,18 @@ sphinx_rtd_theme
 myst-parser
 ```
 
-### 5.2 Push our project to GitHub.
+### 5.3 Push our project to GitHub.
 
-First, create a new repository on GitHub and copy the link (https://github.com/wangjk321/rinkou2021.git)
+First, create a new repository on GitHub and copy the ssh link.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 The repository must be public (not private)
 </div>
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: white;; background-color: #e17055; border-color: #faebcc;">
+Nowadays, SSH connection is the more recommended way to connect to GitHub.
+Make sure you have generated an SSH key pair and submitted the public key to GitHub.
+</div>
 
 Then, in the `rinkou` folder of your local PC, create a `.gitignore` file and write:
 
@@ -221,7 +225,7 @@ because we don't need to push the `build` folder.
 
 Then, create a github repository, and copy its ssh link.
 
-Now, run:
+Then, run the following codes:
 
 ```shell
 git init
