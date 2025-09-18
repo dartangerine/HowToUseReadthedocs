@@ -6,10 +6,7 @@
 HowToUseReadthedocs documentation
 =================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Here is a tutorial on how to use ReadTheDocs.
 
 .. toctree::
    :maxdepth: 2
