@@ -239,7 +239,7 @@ git push -u origin master
 
 The project is already on GitHub.
 
-### 5.3 Link to ReadTheDocs
+### 5.4 Link to ReadTheDocs
 
 - Register account on https://readthedocs.org
 
@@ -257,7 +257,7 @@ The project is already on GitHub.
 
 - Now the document is online!
 
-### 5.4 Update the document
+### 5.5 Update the document
 
 One wonderful advantage of "Github + ReadTheDocs", is the easy way to update.
 
@@ -273,7 +273,7 @@ One wonderful advantage of "Github + ReadTheDocs", is the easy way to update.
 
 - ReadtheDocs will automatically update your online document
 
-### 5.5 Figure
+### 5.6 Figure
 
 - The figure used in the document could be stored in `rinkou/source/_static` 
 
