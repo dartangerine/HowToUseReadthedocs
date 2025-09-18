@@ -255,7 +255,7 @@ The project is already on GitHub.
 
 - Click "Continue" --> "Continue"-->"This file exists"
 
-- Now the document is online https://rinkou2021.readthedocs.io/en/latest/
+- Now the document is online!
 
 ### 5.4 Update the document
 
